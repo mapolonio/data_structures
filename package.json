@@ -1,7 +1,7 @@
 {
-  "name": "data_structures",
+  "name": "data_structures_and_algorithms",
   "version": "1.0.0",
-  "description": "Data Structures",
+  "description": "Data Structures and Algorithms",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mapolonio/data_structures.git"
+    "url": "git+https://github.com/mapolonio/data_structures_and_algorithms.git"
   },
   "author": "mapolonio",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/mapolonio/data_structures/issues"
+    "url": "https://github.com/mapolonio/data_structures_and_algorithms/issues"
   },
-  "homepage": "https://github.com/mapolonio/data_structures#readme",
+  "homepage": "https://github.com/mapolonio/data_structures_and_algorithms#readme",
   "devDependencies": {
     "chai": "^4.2.0",
     "eslint": "^7.14.0",
